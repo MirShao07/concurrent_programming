@@ -1,8 +1,8 @@
 /*
  * File:   dispatchQueue.h
- * Author: Miranda Shao
+ * Author: robert
  *
- * Modified on August 7, 2018
+ * Modified by Miranda Shao on August 7, 2018
  */
 
 
